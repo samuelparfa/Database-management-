@@ -1,6 +1,12 @@
-# hello-world
+# Database Management 
 
-just another repository
+ Types of database 
 
-Hi Samuel, I like Node,js and coffeescript (that's what i am made of).
-I 've had tacos on the moon and find them more superior on the Earth tacos.
+Hi Samuel, Types of database management systems are as follows 
+Hierarchical database 
+Network database
+Graph Database 
+Object oriented database
+ER module database.
+$
+.
